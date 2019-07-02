@@ -1,0 +1,98 @@
+
+NEW Dialogue
+prowebik: привет
+Ahsoka: Привет!
+Ahsoka: Сделано
+prowebik: что ты знаешь леха
+prowebik: лехи
+prowebik: лехе
+prowebik: что ты знаешь лехе
+Ahsoka: Закончила
+prowebik: что ты знаешь лехе
+Ahsoka: Закончила
+Ahsoka: Выполнила
+prowebik: что ты знаешь леха
+prowebik: бб
+Ahsoka: До встречи
+
+NEW Dialogue
+prowebik: привет
+Ahsoka: О! Привет!
+Ahsoka: Закончила
+prowebik: что ты знаешь лехе
+prowebik: бб
+Ahsoka: Желаю удачи
+Ahsoka: Сделано
+prowebik: что ты знаешь лехе
+prowebik: бб
+Ahsoka: Желаю удачи
+prowebik: люблю
+prowebik: бб
+Ahsoka: Еще увидимся
+prowebik: я люблю
+prowebik: я люблю
+Ahsoka: Не знаю
+prowebik: бб
+Ahsoka: Не знаю
+Ahsoka: До встречи
+prowebik: я люблю
+Ahsoka: Не знаю
+prowebik: бб
+Ahsoka: Не знаю
+Ahsoka: Всего хорошего
+prowebik: я люблю
+Ahsoka: Не знаю
+prowebik: бб
+Ahsoka: Не знаю
+Ahsoka: Пока
+prowebik: я люблю
+Ahsoka: Не знаю
+prowebik: бб
+Ahsoka: Не знаю
+Ahsoka: Всего хорошего
+
+NEW Dialogue
+prowebik: привет
+Ahsoka: О! Привет!
+prowebik: ты любишь человека
+prowebik: ты любишь человека
+Ahsoka: Да
+prowebik: бб
+Ahsoka: Не знаю
+Ahsoka: Желаю удачи
+prowebik: бб
+Ahsoka: Еще увидимся
+prowebik: бб
+Ahsoka: Давай, пока
+prowebik: бб
+Ahsoka: До встречи
+prowebik: бб
+Ahsoka: Пока
+prowebik: бб
+Ahsoka: Всего хорошего
+prowebik: бб
+Ahsoka: Давай, пока
+prowebik: бб
+Ahsoka: Еще увидимся
+prowebik: бб
+Ahsoka: Давай, пока
+prowebik: бб
+Ahsoka: Желаю удачи
+prowebik: бб
+Ahsoka: Всего хорошего
+prowebik: бб
+Ahsoka: Всего хорошего
+prowebik: бб
+Ahsoka: Желаю удачи
+
+NEW Dialogue
+prowebik: привет
+Ahsoka: Здравствуй!
+prowebik: бб
+Ahsoka: Давай, пока
+
+NEW Dialogue
+prowebik: привет
+Ahsoka: Привет!
+prowebik: помощь
+prowebik: запомни человек
